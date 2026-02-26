@@ -62,6 +62,6 @@ It supports Candidates, Recruiters, and Admin workflows with authentication, res
 ---
 
 ## 📂 Project Structure
-JobGram/
-client/ → React Frontend
-server/ → Express Backend
+- JobGram/
+- client/ → React Frontend
+- server/ → Express Backend
